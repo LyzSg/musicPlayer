@@ -1,0 +1,1 @@
+!function(n,o){var i=new Audio;document.body.appendChild(this.audio);o.audioControl={play:function(){i.play(),"play"},pause:function(){i.pause(),"pause"},getAudio:function(n){i.src=n},playTo:function(n){i.currentTime=n}}}(window.Zepto,window.player||(window.player={}));
