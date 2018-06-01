@@ -1,92 +1,82 @@
 [
     {
-        "image": "/source/song_1.jpg",
-        "audio": "/source/song_1.mp3",
+        "image": "../source/song_1.jpg",
+        "audio": "../source/song_1.mp3",
         "song": "好敵手と書いて「とも」と読む",
         "album": "TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック",
         "singer": "林ゆうき",
-        "duration": 126,
-        "isLike": true
+        "duration": 126
     },
     {
-        "image": "/source/song_2.jpg",
-        "audio": "/source/song_2.mp3",
+        "image": "../source/song_2.jpg",
+        "audio": "../source/song_2.mp3",
         "song": "エール・フォー・ユー",
         "album": "HUGっと! プリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・フォー・ユー!!",
         "singer": "林ゆうき",
-        "duration": 128,
-        "isLike": false
+        "duration": 128
     },
     {
-        "image": "/source/song_3.jpg",
-        "audio": "/source/song_3.mp3",
+        "image": "../source/song_3.jpg",
+        "audio": "../source/song_3.mp3",
         "song": "シグナル",
         "album": "カンテレ・フジテレビ系 火曜よる9時ドラマ「シグナル 長期未解決事件捜査班」オリジナル・サウンドトラック",
         "singer": "林ゆうき、橘麻美",
-        "duration": 357,
-        "isLike": false
+        "duration": 357
     },
     {
-        "image": "/source/song_1.jpg",
-        "audio": "/source/song_1.mp3",
+        "image": "../source/song_1.jpg",
+        "audio": "../source/song_1.mp3",
         "song": "好敵手と書いて「とも」と読む",
         "album": "TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック",
         "singer": "林ゆうき",
-        "duration": 126,
-        "isLike": true
+        "duration": 126
     },
     {
-        "image": "/source/song_2.jpg",
-        "audio": "/source/song_2.mp3",
+        "image": "../source/song_2.jpg",
+        "audio": "../source/song_2.mp3",
         "song": "エール・フォー・ユー",
         "album": "HUGっと! プリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・フォー・ユー!!",
         "singer": "林ゆうき",
-        "duration": 128,
-        "isLike": false
+        "duration": 128
     },
     {
-        "image": "/source/song_3.jpg",
-        "audio": "/source/song_3.mp3",
+        "image": "../source/song_3.jpg",
+        "audio": "../source/song_3.mp3",
         "song": "シグナル",
         "album": "カンテレ・フジテレビ系 火曜よる9時ドラマ「シグナル 長期未解決事件捜査班」オリジナル・サウンドトラック",
         "singer": "林ゆうき、橘麻美",
-        "duration": 357,
-        "isLike": false
+        "duration": 357
     },
     {
-        "image": "/source/song_1.jpg",
-        "audio": "/source/song_1.mp3",
+        "image": "../source/song_1.jpg",
+        "audio": "../source/song_1.mp3",
         "song": "好敵手と書いて「とも」と読む",
         "album": "TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック",
         "singer": "林ゆうき",
-        "duration": 126,
-        "isLike": true
+        "duration": 126
     },
     {
-        "image": "/source/song_2.jpg",
-        "audio": "/source/song_2.mp3",
+        "image": "../source/song_2.jpg",
+        "audio": "../source/song_2.mp3",
         "song": "エール・フォー・ユー",
         "album": "HUGっと! プリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・フォー・ユー!!",
         "singer": "林ゆうき",
-        "duration": 128,
-        "isLike": false
+        "duration": 128
     },
     {
-        "image": "/source/song_3.jpg",
-        "audio": "/source/song_3.mp3",
+        "image": "../source/song_3.jpg",
+        "audio": "../source/song_3.mp3",
         "song": "シグナル",
         "album": "カンテレ・フジテレビ系 火曜よる9時ドラマ「シグナル 長期未解決事件捜査班」オリジナル・サウンドトラック",
         "singer": "林ゆうき、橘麻美",
-        "duration": 357,
-        "isLike": false
+        "duration": 357
     },
     {
-        "image": "/source/song_3.jpg",
-        "audio": "/source/4.mp3",
+        "image": "../source/song_3.jpg",
+        "audio": "../source/4.mp3",
         "song": "xxx",
         "album": "xxx",
         "singer": "林ゆうき、橘麻美",
-        "duration": 3024,
-        "isLike": false
+        "duration": 3024
     }
 ]
